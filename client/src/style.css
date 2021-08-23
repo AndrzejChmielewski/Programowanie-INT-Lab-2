@@ -1,0 +1,31 @@
+.ui.menu:first-child {
+    margin-top: 0;
+    margin-bottom: 1500;
+    
+}
+
+.ui.message.message-container {
+    text-align: Left;
+    padding: 120px;
+    box-shadow: 0;
+    margin: 0;
+    color:rgb(0, 26, 255);
+}
+
+.form-container{
+    text-align: Left;
+    width: 450px;
+    margin: 0 auto;
+    padding-top: 50px;
+    
+}
+
+.ui.alertMssg {
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: Left;
+    
+}
+body {
+    background-color: rgba(248, 255, 157, 0.514);
+  }
